@@ -1,0 +1,49 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.tb-cal {
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    background-color: black;
+
+}
+th,td {
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+    font-size: xx-large;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+table {
+    border-radius: 10px;
+    border-spacing: 15px;
+
+
+}
+
+th {
+    background-color: rgb(155, 205, 48);
+}
+
+.c-val {
+    background-color: rgb(247, 66, 66);
+    color: azure;
+}
+
+.centre {
+    margin-left: 40%;
+    padding-top: 5%;
+}
+
+.box-shd {
+    box-shadow: 1px 1px 80px 1px rgb(88, 118, 75) inset;
+    ;
+}
